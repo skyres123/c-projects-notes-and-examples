@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\ASUS\source\repos\16. Ders\16. Ders\main.c(98,9): warning C4477: 'printf' : '%p' biçim dizesi 'void *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int'
+C:\Users\ASUS\source\repos\16. Ders\16. Ders\main.c(98,9): warning C4313: 'printf': biçim dizesindeki '%p', 1 bağımsız değişkeniyle (türü 'int') çakışıyor
+C:\Users\ASUS\source\repos\16. Ders\16. Ders\main.c(98,9): warning C4477: 'printf' : '%p' biçim dizesi 'void *' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'int'
+C:\Users\ASUS\source\repos\16. Ders\16. Ders\main.c(98,9): warning C4313: 'printf': biçim dizesindeki '%p', 2 bağımsız değişkeniyle (türü 'int') çakışıyor
+C:\Users\ASUS\source\repos\16. Ders\16. Ders\main.c(98,9): warning C4477: 'printf' : '%p' biçim dizesi 'void *' türü bir bağımsız değişken gerektirir, ancak 3 değişen sayıda bağımsız değişkenin türü 'int'
+C:\Users\ASUS\source\repos\16. Ders\16. Ders\main.c(98,9): warning C4313: 'printf': biçim dizesindeki '%p', 3 bağımsız değişkeniyle (türü 'int') çakışıyor
+C:\Users\ASUS\source\repos\16. Ders\16. Ders\main.c(87,8): warning C4101: 'mydata1': yerel değişken başvurusu kaldırıldı
+  16. Ders.vcxproj -> C:\Users\ASUS\source\repos\16. Ders\x64\Debug\16. Ders.exe

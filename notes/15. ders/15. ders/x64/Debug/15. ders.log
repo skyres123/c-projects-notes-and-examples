@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\ASUS\source\repos\15. ders\15. ders\main.c(21,11): warning C4098: 'checked_malloc': 'void' işlev değer döndürüyor
+C:\Users\ASUS\source\repos\15. ders\15. ders\main.c(220,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'size_t'
+C:\Users\ASUS\source\repos\15. ders\15. ders\main.c(220,9): message : biçim dizesinde '%zd' kullanmayı düşünün
+C:\Users\ASUS\source\repos\15. ders\15. ders\main.c(221,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'size_t'
+C:\Users\ASUS\source\repos\15. ders\15. ders\main.c(221,9): message : biçim dizesinde '%zd' kullanmayı düşünün
+C:\Users\ASUS\source\repos\15. ders\15. ders\main.c(116,7): warning C4101: 'a': yerel değişken başvurusu kaldırıldı
+C:\Users\ASUS\source\repos\15. ders\15. ders\main.c(202,3): warning C4101: 'Date': yerel değişken başvurusu kaldırıldı
+C:\Users\ASUS\source\repos\15. ders\15. ders\main.c(111,14): warning C4101: 'mydata': yerel değişken başvurusu kaldırıldı
+  15. ders.vcxproj -> C:\Users\ASUS\source\repos\15. ders\x64\Debug\15. ders.exe

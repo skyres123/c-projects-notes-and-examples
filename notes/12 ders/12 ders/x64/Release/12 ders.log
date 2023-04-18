@@ -1,0 +1,26 @@
+﻿  main.c
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(16,14): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'char [2]' ile aynı değil
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(16,10): warning C4024: 'putchar': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(26,14): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'char [2]' ile aynı değil
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(26,10): warning C4024: 'putchar': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(36,21): warning C4047: '!=': 'int', yöneltme düzeyi sayısı bakımından 'char [2]' ile aynı değil
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(78,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'size_t'
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(78,9): message : biçim dizesinde '%zd' kullanmayı düşünün
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(104,13): warning C4244: '=': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(184,16): warning C4047: '!=': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(284,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int **'
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(284,9): warning C4313: 'printf': biçim dizesindeki '%d', 1 bağımsız değişkeniyle (türü 'int **') çakışıyor
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(285,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(285,9): warning C4313: 'printf': biçim dizesindeki '%d', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(288,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(288,9): warning C4313: 'printf': biçim dizesindeki '%d', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(288,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(288,9): warning C4313: 'printf': biçim dizesindeki '%d', 2 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(288,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 3 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(288,9): warning C4313: 'printf': biçim dizesindeki '%d', 3 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\ASUS\source\repos\12 ders\12 ders\main.c(182,6): warning C4047: 'başlatılıyor': 'int', yöneltme düzeyi sayısı bakımından 'char *' ile aynı değil
+  Kod üretiliyor
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  12 ders.vcxproj -> C:\Users\ASUS\source\repos\12 ders\x64\Release\12 ders.exe

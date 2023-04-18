@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\ASUS\source\repos\deneme\deneme\main.c(33,19): warning C4047: 'işlev': 'int *', yöneltme düzeyi sayısı bakımından 'int' ile aynı değil
+C:\Users\ASUS\source\repos\deneme\deneme\main.c(33,16): warning C4024: 'swap': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\ASUS\source\repos\deneme\deneme\main.c(33,32): warning C4047: 'işlev': 'int *', yöneltme düzeyi sayısı bakımından 'int' ile aynı değil
+C:\Users\ASUS\source\repos\deneme\deneme\main.c(33,22): warning C4024: 'swap': 2 biçimsel ve gerçek parametresi için farklı türler
+  deneme.vcxproj -> C:\Users\ASUS\source\repos\deneme\x64\Debug\deneme.exe
