@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(35,2): warning C4013: 'st' undefined; assuming extern returning int
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(123,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(123,11): message : consider using '%zd' in the format string
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(123,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(123,11): message : consider using '%zd' in the format string
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(50,9): warning C4101: 'Data1': unreferenced local variable
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(102,6): warning C4101: 'siniflar': unreferenced local variable
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(53,9): warning C4101: 'Data4': unreferenced local variable
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(52,9): warning C4101: 'Data3': unreferenced local variable
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(51,9): warning C4101: 'Data2': unreferenced local variable
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(106,6): warning C4101: 'gpio': unreferenced local variable
+C:\Users\ASUS\source\repos\20. ders\20. ders\main.c(49,9): warning C4101: 'Data': unreferenced local variable
+  20. ders.vcxproj -> C:\Users\ASUS\source\repos\20. ders\x64\Debug\20. ders.exe
