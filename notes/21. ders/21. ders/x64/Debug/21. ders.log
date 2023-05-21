@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\ASUS\source\repos\21. ders\21. ders\main.c(181,9): warning C4101: 'buffer2': unreferenced local variable
+  21. ders.vcxproj -> C:\Users\ASUS\source\repos\21. ders\x64\Debug\21. ders.exe

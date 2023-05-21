@@ -1,0 +1,3 @@
+***************Öðrenci Milleti**********
+Ýsim           Soyisim        Öðrenci No
+Ali             Baba             178

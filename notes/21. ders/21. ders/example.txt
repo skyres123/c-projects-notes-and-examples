@@ -1,0 +1,2 @@
+meraba dünya 10,20
+ilk sayi=10,ikinci sayi=20  toplam=30
